@@ -112,14 +112,19 @@ If rejected → follow instructions and retry.
 ## Step 6: Request Access via GitHub
 https://www.jetbrains.com/academy/student-pack/#students  
 
+- Click **Request Now**  
 ![Step 6](images/step6.png)
-
+- Select **GitHub**
+![Step 6a](images/step6a.png)
+- Click **Authorize with GitHub**
+![Step 6b](images/step6b.png)  
 ---
 
 ## Step 7: Complete Application
 Fill details + CAPTCHA.
 
 ![Step 7](images/step7.png)
+![Step 7a](images/step7a.png)
 
 ---
 
@@ -131,7 +136,14 @@ Check your private email and confirm.
 ---
 
 ## Step 9: Activate Your License
-Accept terms → Done 🎉
+- Click **Get Started to use**
+![Step 9](images/step9.png)
+- Scroll down and accept terms
+![Step 9a](images/step9a.png)
+
+
+🎉 Done!
+![Step 10](images/step10.png)
 
 ---
 

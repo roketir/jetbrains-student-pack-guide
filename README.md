@@ -52,13 +52,14 @@ Some students cannot verify their academic status using a school email.
 
 ## Step 1: Create a GitHub Account
 https://education.github.com/pack  
+Click **Sign up** and create an account using your **private email address**.
 
 ![Step 1](images/step1.png)
 
 ---
 
 ## Step 2: Apply for GitHub Student Developer Pack
-Fill in your email and region (Israel).
+Fill in your email, user and region (Israel).
 
 ![Step 2](images/step2.png)
 
@@ -77,9 +78,12 @@ Go to:
 ## Step 4: Submit Student Verification
 Go to:
 **Billing & Licensing → Education Benefits**
+- Click **Start an application**  
 
-- Upload student ID  
-- Select school  
+Follow the instructions:
+- Allow location access  
+- Select your school  
+- Upload a photo of your student ID  
 - Submit  
 
 ![Step 4](images/step4.png)
@@ -87,7 +91,17 @@ Go to:
 ---
 
 ## Step 5: Wait for Approval
-⏳ ~3 days  
+⏳ Approval usually takes **~3 days**  
+- You will receive:
+  1. Academic status approval  
+  2. Final confirmation
+  
+![Step 5a](images/step5a.png)
+![Step 5b](images/step5b.png)
+
+📌 If rejected:
+- Read the reason carefully  
+- Follow instructions and reapply  
 
 If rejected → follow instructions and retry.
 
